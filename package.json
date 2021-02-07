@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/raghu3r/greetr.git"
   },
+  "dependencies": {
+    "jquery": "^1.11.2"
+  },
   "keywords": [
     "Greet",
     "Greeting",
