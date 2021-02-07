@@ -1,0 +1,27 @@
+{
+  "name": "greetr",
+  "version": "1.0.0",
+  "description": "Greetr, Its a custom jQuery framework used to Greet users. Can enhance more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghu3r/greetr.git"
+  },
+  "keywords": [
+    "Greet",
+    "Greeting",
+    "jQuery",
+    "language",
+    "npm",
+    "node"
+  ],
+  "author": "Raghu Rami Reddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raghu3r/greetr/issues"
+  },
+  "homepage": "https://github.com/raghu3r/greetr#readme"
+}
