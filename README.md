@@ -1,13 +1,13 @@
-# @raghu3r/greetr
+# greetr
 
-Used to Greet users in the language you want to.
+### Used to Greet users in the language you want to.
 
-- Ex: Greeting of the Day Mr/Ms. XXXX  // Can get same greeting in whatever the language you want.
+- Ex: Greetings of the Day Mr/Ms. XXXX  // Can get same greeting in whatever the language you want.
 
 ## Install
 
 ```
-$ npm install @raghu3r/greetr
+$ npm install greetr
 ```
 
 ## Usage
@@ -51,12 +51,13 @@ $('#login').click(function() {
             <input type="button" value="Login" id="login" />
         </div>
         <h1 id='greeting'></h1>
-        <script src="//include jQuery"></script>
-        <script src="// include Greetr.js"></script>
+        <script src=""></script> // include jQuery
+        <script src=""></script> // include Greetr.js
         <script src="app.js"></script>
     </body>
 </html>
 
 ```
 
-- Here you go!! Play around with different languages you know by editing Greetr.js library file. Currently we support English and Spanish.
+### :wave: Here you go!! 
+### Play around :computer: with different languages you know by editing Greetr.js library file. Currently we are supporting English and Spanish.
